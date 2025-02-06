@@ -1,0 +1,6 @@
+{
+    "command": "./gradlew :app:installDebug",
+    "working_directory": "/home/kavia/workspace/EcoTrack-Android/EcoTrack",
+    "status": "error",
+    "message": "Unable to execute command - ADB not found in environment. Please ensure Android SDK tools are properly installed and configured."
+}

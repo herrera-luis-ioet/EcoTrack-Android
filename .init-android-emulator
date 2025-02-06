@@ -1,0 +1,5 @@
+{
+    "status": "error",
+    "message": "Failed to start Android emulator - command not found. Please ensure Android SDK tools are installed and properly configured in PATH",
+    "emulator_ready": false
+}

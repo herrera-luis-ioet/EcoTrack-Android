@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcoTrack</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_activities">Activities</string>
+    <string name="menu_profile">Profile</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="eco_activities">Eco Activities</string>
+    <string name="welcome_message">Track Your Environmental Impact</string>
+</resources>
